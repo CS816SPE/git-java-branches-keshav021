@@ -5,5 +5,6 @@ public class Calculator{
 		int a = 10;
 		int b =5;
 		System.out.println("Addition of these two numbers "+ (a+b));
+		System.out.println("Subtraction of these two numbers "+(a-b));
 	}
 }
